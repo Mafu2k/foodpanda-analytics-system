@@ -268,7 +268,8 @@ W razie pytań lub problemów, otwórz Issue na GitHub.
 
 ## 📸 Screenshots
 
-*(Dodaj tutaj screenshoty aplikacji)*
+<img width="1845" height="949" alt="image" src="https://github.com/user-attachments/assets/2ea47b1e-d1e8-4a73-a552-f4476f55419a" />
+
 
 ## ⭐ Wsparcie
 
