@@ -253,19 +253,6 @@ Ten projekt jest udostępniony na licencji MIT.
 
 W razie pytań lub problemów, otwórz Issue na GitHub.
 
-## 🚧 Roadmap
-
-### Planowane funkcjonalności:
-- [ ] Eksport raportów do PDF/Excel
-- [ ] Wykresy i wizualizacje (Chart.js)
-- [ ] Filtry zaawansowane
-- [ ] Wyszukiwarka pełnotekstowa
-- [ ] Autentykacja użytkowników
-- [ ] Panel administracyjny
-- [ ] API documentation (Swagger)
-- [ ] Testy jednostkowe
-- [ ] Docker containerization
-
 ## 📸 Screenshots
 
 <img width="1845" height="949" alt="image" src="https://github.com/user-attachments/assets/2ea47b1e-d1e8-4a73-a552-f4476f55419a" />
