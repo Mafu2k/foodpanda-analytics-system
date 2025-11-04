@@ -249,9 +249,6 @@ Ten projekt jest udostępniony na licencji MIT.
 
 - **Łukasz** - Backend (Flask) & Frontend (React)
 
-## 🤝 Kontakt
-
-W razie pytań lub problemów, otwórz Issue na GitHub.
 
 ## 📸 Screenshots
 
@@ -264,4 +261,3 @@ Jeśli projekt Ci się podoba, zostaw ⭐ na GitHub!
 
 ---
 
-**Zbudowano z ❤️ używając React + Flask**
