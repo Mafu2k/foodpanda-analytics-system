@@ -67,7 +67,7 @@ foodpanda-analytics-system/
 │   │   └── index.js       # Entry point
 │   ├── public/            # Pliki statyczne
 │   └── package.json       # Zależności Node.js
-├── database/              # Skrypty SQL (opcjonalnie)
+├── database/              # Skrypty SQL 
 ├── docs/                  # Dokumentacja
 └── README.md             # Ten plik
 ```
